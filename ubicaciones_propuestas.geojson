@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "ubicaciones_propuestas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32610" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 549118.266607725294307, 5286003.137140884995461 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 549120.770484450506046, 5285903.239001577720046 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 549123.531433981028385, 5285746.364207525737584 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 549116.940719307749532, 5286110.911928839981556 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 551225.73415516584646, 5278379.279601841233671 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 551672.961668830830604, 5281857.906125058420002 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 552286.933124850620516, 5267798.394741550087929 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 550068.403467840515077, 5269565.047677085734904 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 550069.620430561248213, 5269465.066922091878951 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 550070.901010843343101, 5269294.014961427077651 ] } }
+]
+}
